@@ -1,25 +1,94 @@
 [
-  { "value": "은행선택" },
-  { "value": "국민은행" },
-  { "value": "신한은행" },
-  { "value": "우리은행" },
-  { "value": "하나은행" },
-  { "value": "농협은행" },
-  { "value": "기업은행" },
-  { "value": "아이엠뱅크(구 대구)" },
-  { "value": "부산은행" },
-  { "value": "경남은행" },
-  { "value": "광주은행" },
-  { "value": "전북은행" },
-  { "value": "제주은행" },
-  { "value": "수협은행" },
-  { "value": "산업은행" },
-  { "value": "sc제일은행" },
-  { "value": "한국씨티은행" },
-  { "value": "우체국" },
-  { "value": "새마을금고" },
-  { "value": "신협" },
-  { "value": "상호저축은행" },
-  { "value": "산림조합중앙회" },
-  { "value": "지역농축협" }
+  {
+    "uid": "a1b2c3d4-e5f6-47a8-b9c0-d1e2f3a4b5c6",
+    "name": "은행선택"
+  },
+  {
+    "uid": "f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
+    "name": "국민은행"
+  },
+  {
+    "uid": "c1d2e3f4-a5b6-47c8-d9e0-f1a2b3c4d5e6",
+    "name": "신한은행"
+  },
+  {
+    "uid": "e1f2a3b4-c5d6-47e8-f9a0-b1c2d3e4f5a6",
+    "name": "우리은행"
+  },
+  {
+    "uid": "b1c2d3e4-f5a6-47b8-c9d0-e1f2a3b4c5d6",
+    "name": "하나은행"
+  },
+  {
+    "uid": "d1e2f3a4-b5c6-47d8-e9f0-a1b2c3d4e5f6",
+    "name": "농협은행"
+  },
+  {
+    "uid": "f5a6b7c8-d9e0-41f2-a3b4-c5d6e7f8a9b0",
+    "name": "기업은행"
+  },
+  {
+    "uid": "a5b6c7d8-e9f0-41a2-b3c4-d5e6f7a8b9c0",
+    "name": "아이엠뱅크(구 대구)"
+  },
+  {
+    "uid": "c5d6e7f8-a9b0-41c2-d3e4-f5a6b7c8d9e0",
+    "name": "부산은행"
+  },
+  {
+    "uid": "e5f6a7b8-c9d0-41e2-f3a4-b5c6d7e8f9a0",
+    "name": "경남은행"
+  },
+  {
+    "uid": "b5c6d7e8-f9a0-41b2-c3d4-e5f6a7b8c9d0",
+    "name": "광주은행"
+  },
+  {
+    "uid": "d5e6f7a8-b9c0-41d2-e3f4-a5b6c7d8e9f0",
+    "name": "전북은행"
+  },
+  {
+    "uid": "f9a0b1c2-d3e4-45f6-a7b8-c9d0e1f2a3b4",
+    "name": "제주은행"
+  },
+  {
+    "uid": "a9b0c1d2-e3f4-45a6-b7c8-d9e0f1a2b3c4",
+    "name": "수협은행"
+  },
+  {
+    "uid": "c9d0e1f2-a3b4-45c6-d7e8-f9a0b1c2d3e4",
+    "name": "산업은행"
+  },
+  {
+    "uid": "e9f0a1b2-c3d4-45e6-f7a8-b9c0d1e2f3a4",
+    "name": "sc제일은행"
+  },
+  {
+    "uid": "b9c0d1e2-f3a4-45b6-c7d8-e9f0a1b2c3d4",
+    "name": "한국씨티은행"
+  },
+  {
+    "uid": "d9e0f1a2-b3c4-45d6-e7f8-a9b0c1d2e3f4",
+    "name": "우체국"
+  },
+  {
+    "uid": "f3a4b5c6-d7e8-49f0-a1b2-c3d4e5f6a7b8",
+    "name": "새마을금고"
+  },
+  {
+    "uid": "a3b4c5d6-e7f8-49a0-b1c2-d3e4f5a6b7c8",
+    "name": "신협"
+  },
+  {
+    "uid": "c3d4e5f6-a7b8-49c0-d1e2-f3a4b5c6d7e8",
+    "name": "상호저축은행"
+  },
+  {
+    "uid": "e3f4a5b6-c7d8-49e0-f1a2-b3c4d5e6f7a8",
+    "name": "산림조합중앙회"
+  },
+  {
+    "uid": "b3c4d5e6-f7a8-49b0-c1d2-e3f4a5b6c7d8",
+    "name": "지역농축협"
+  }
 ]

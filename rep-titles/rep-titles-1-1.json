@@ -1,12 +1,42 @@
 [
-  { "value": "공동대표이사" },
-  { "value": "관리인" },
-  { "value": "대표자" },
-  { "value": "대표이사" },
-  { "value": "이사장" },
-  { "value": "대표사원" },
-  { "value": "조합장" },
-  { "value": "이사" },
-  { "value": "상무" },
-  { "value": "기타" }
+  {
+    "uid": "a1b2c3d4-e5f6-47a8-b9c0-d1e2f3a4b5c6",
+    "name": "공동대표이사"
+  },
+  {
+    "uid": "f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
+    "name": "관리인"
+  },
+  {
+    "uid": "c1d2e3f4-a5b6-47c8-d9e0-f1a2b3c4d5e6",
+    "name": "대표자"
+  },
+  {
+    "uid": "e1f2a3b4-c5d6-47e8-f9a0-b1c2d3e4f5a6",
+    "name": "대표이사"
+  },
+  {
+    "uid": "b1c2d3e4-f5a6-47b8-c9d0-e1f2a3b4c5d6",
+    "name": "이사장"
+  },
+  {
+    "uid": "d1e2f3a4-b5c6-47d8-e9f0-a1b2c3d4e5f6",
+    "name": "대표사원"
+  },
+  {
+    "uid": "f5a6b7c8-d9e0-41f2-a3b4-c5d6e7f8a9b0",
+    "name": "조합장"
+  },
+  {
+    "uid": "a5b6c7d8-e9f0-41a2-b3c4-d5e6f7a8b9c0",
+    "name": "이사"
+  },
+  {
+    "uid": "c5d6e7f8-a9b0-41c2-d3e4-f5a6b7c8d9e0",
+    "name": "상무"
+  },
+  {
+    "uid": "e5f6a7b8-c9d0-41e2-f3a4-b5c6d7e8f9a0",
+    "name": "기타"
+  }
 ]

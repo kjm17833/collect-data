@@ -1,14 +1,46 @@
 [
-  { "value": "은행선택" },
-  { "value": "경남은행" },
-  { "value": "광주은행" },
-  { "value": "국민은행" },
-  { "value": "농협은행" },
-  { "value": "부산은행" },
-  { "value": "신한은행" },
-  { "value": "아이엠뱅크(구 대구)" },
-  { "value": "우리은행" },
-  { "value": "전북은행" },
-  { "value": "하나은행" },
-  { "value": "다시 테스트" }
+  {
+    "uid": "a1b2c3d4-e5f6-47a8-b9c0-d1e2f3a4b5c6",
+    "name": "은행선택"
+  },
+  {
+    "uid": "f7g8h9i0-j1k2-4l3m-n4o5-p6q7r8s9t0u1",
+    "name": "경남은행"
+  },
+  {
+    "uid": "v2w3x4y5-z6a7-4b8c-d9e0-f1g2h3i4j5k6",
+    "name": "광주은행"
+  },
+  {
+    "uid": "l7m8n9o0-p1q2-4r3s-t4u5-v6w7x8y9z0a1",
+    "name": "국민은행"
+  },
+  {
+    "uid": "b2c3d4e5-f6g7-4h8i-j9k0-l1m2n3o4p5q6",
+    "name": "농협은행"
+  },
+  {
+    "uid": "r7s8t9u0-v1w2-4x3y-z4a5-b6c7d8e9f0g1",
+    "name": "부산은행"
+  },
+  {
+    "uid": "h2i3j4k5-l6m7-4n8o-p9q0-r1s2t3u4v5w6",
+    "name": "신한은행"
+  },
+  {
+    "uid": "x7y8z9a0-b1c2-4d3e-f4g5-h6i7j8k9l0m1",
+    "name": "아이엠뱅크(구 대구)"
+  },
+  {
+    "uid": "n2o3p4q5-r6s7-4t8u-v9w0-x1y2z3a4b5c6",
+    "name": "우리은행"
+  },
+  {
+    "uid": "d7e8f9g0-h1i2-4j3k-l4m5-n6o7p8q9r0s1",
+    "name": "전북은행"
+  },
+  {
+    "uid": "t2u3v4w5-x6y7-4z8a-b9c0-d1e2f3g4h5i6",
+    "name": "하나은행"
+  }
 ]
