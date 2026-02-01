@@ -1,0 +1,156 @@
+[
+  {
+    "name": "광주고등검찰청장",
+    "juso": {
+      "dist": {},
+      "enterDirectly": false,
+      "original": {},
+      "roadAddrPart1": "광주광역시 동구 준법로 7-12",
+      "roadAddrPart2": "(지산동, 광주고등검찰청장)",
+      "zipNo": "61441"
+    }
+  },
+  {
+    "name": "대구고등검찰청장",
+    "juso": {
+      "dist": {},
+      "enterDirectly": false,
+      "original": {},
+      "roadAddrPart1": "대구광역시 수성구 동대구로 366",
+      "roadAddrPart2": "(범어동, 대구고등검찰청장)",
+      "zipNo": "42027"
+    }
+  },
+  {
+    "name": "대전고등검찰청장",
+    "juso": {
+      "dist": {},
+      "enterDirectly": false,
+      "original": {},
+      "roadAddrPart1": "대전광역시 서구 둔산중로78번길 15",
+      "roadAddrPart2": "(둔산동, 대전고등검찰청장)",
+      "zipNo": "35237"
+    }
+  },
+  {
+    "name": "부산고등검찰청장",
+    "juso": {
+      "dist": {},
+      "enterDirectly": false,
+      "original": {},
+      "roadAddrPart1": "부산광역시 연제구 법원로 15",
+      "roadAddrPart2": "(거제동, 부산고등검찰청장)",
+      "zipNo": "47510"
+    }
+  },
+  {
+    "name": "서울고등검찰청장",
+    "juso": {
+      "dist": {},
+      "enterDirectly": false,
+      "original": {},
+      "roadAddrPart1": "서울특별시 서초구 반포대로 172",
+      "roadAddrPart2": "(서초동, 서울고등검찰청장)",
+      "zipNo": "06594"
+    }
+  },
+  {
+    "name": "수원고등검찰청장",
+    "juso": {
+      "dist": {},
+      "enterDirectly": false,
+      "original": {},
+      "roadAddrPart1": "경기도 수원시 영통구 법조로 91",
+      "roadAddrPart2": "(하동, 수원고등검찰청장)",
+      "zipNo": "16512"
+    }
+  },
+  {
+    "name": "울산지방검찰청장",
+    "juso": {
+      "dist": {},
+      "enterDirectly": false,
+      "original": {},
+      "roadAddrPart1": "울산광역시 남구 법대로 45",
+      "roadAddrPart2": "(옥동, 울산지방검찰청장)",
+      "zipNo": "44643"
+    }
+  },
+  {
+    "name": "의정부지방검찰청장",
+    "juso": {
+      "dist": {},
+      "enterDirectly": false,
+      "original": {},
+      "roadAddrPart1": "경기도 의정부시 녹양로34번길 23",
+      "roadAddrPart2": "(가능동, 의정부지방검찰청장)",
+      "zipNo": "11616"
+    }
+  },
+  {
+    "name": "인천지방검찰청장",
+    "juso": {
+      "dist": {},
+      "enterDirectly": false,
+      "original": {},
+      "roadAddrPart1": "인천광역시 미추홀구 소성로163번길 49",
+      "roadAddrPart2": "(학익동, 인천지방검찰청장)",
+      "zipNo": "22220"
+    }
+  },
+  {
+    "name": "전주지방검찰청장",
+    "juso": {
+      "dist": {},
+      "enterDirectly": false,
+      "original": {},
+      "roadAddrPart1": "전북특별자치도 전주시 덕진구 가인로 11",
+      "roadAddrPart2": "(만성동, 전주지방검찰청장)",
+      "zipNo": "54867"
+    }
+  },
+  {
+    "name": "제주지방검찰청장",
+    "juso": {
+      "dist": {},
+      "enterDirectly": false,
+      "original": {},
+      "roadAddrPart1": "제주특별자치도 제주시 남광북5길 3",
+      "roadAddrPart2": "(이도이동, 제주지방검찰청장)",
+      "zipNo": "63223"
+    }
+  },
+  {
+    "name": "창원지방검찰청장",
+    "juso": {
+      "dist": {},
+      "enterDirectly": false,
+      "original": {},
+      "roadAddrPart1": "경상남도 창원시 성산구 창이대로 669",
+      "roadAddrPart2": "(사파동, 창원지방검찰청장)",
+      "zipNo": "51456"
+    }
+  },
+  {
+    "name": "청주지방검찰청장",
+    "juso": {
+      "dist": {},
+      "enterDirectly": false,
+      "original": {},
+      "roadAddrPart1": "충청북도 청주시 서원구 산남로70번길 51",
+      "roadAddrPart2": "(산남동, 청주지방검찰청장)",
+      "zipNo": "28624"
+    }
+  },
+  {
+    "name": "춘천지방검찰청장",
+    "juso": {
+      "dist": {},
+      "enterDirectly": false,
+      "original": {},
+      "roadAddrPart1": "강원특별자치도 춘천시 공지로 288",
+      "roadAddrPart2": "(효자동, 춘천지방검찰청장)",
+      "zipNo": "24342"
+    }
+  }
+]
