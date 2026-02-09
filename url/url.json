@@ -1,0 +1,8 @@
+{
+  "garnishees": {
+    "cdn": "https://cdn.jsdelivr.net/gh/kjm17833/collect-data@main/garnishees/garnishees-1-1.json",
+    "purge": "https://purge.jsdelivr.net/gh/kjm17833/collect-data@main/garnishees/garnishees-1-1.json"
+  },
+  "fonts": {},
+  "pdf": {}
+}
