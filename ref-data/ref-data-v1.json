@@ -139,7 +139,7 @@
       "name": "지역농축협"
     }
   ],
-  "exeCaseCourt": [
+  "exeCaseCourts": [
     {
       "uid": "e7d9b3fc-fc0b-4747-b486-cc22cfa9536a",
       "code": "9740371",
@@ -681,7 +681,7 @@
       "sbjToSvcUid": "47755abd-27b0-4291-9891-48b0ec0f12bd"
     }
   ],
-  "exeTitleCourt": [
+  "exeTitleCourts": [
     {
       "uid": "a1b2c3d4-e5f6-47a8-b9c0-d1e2f3a4b5c6",
       "abbr": "",
