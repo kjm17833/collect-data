@@ -1,7 +1,7 @@
 {
   "garnishees": {
-    "cdn": "https://cdn.jsdelivr.net/gh/kjm17833/collect-data@main/data/system-garnishees-v1.json",
-    "purge": "https://purge.jsdelivr.net/gh/kjm17833/collect-data@main/data/system-garnishees-v1.json"
+    "cdn": "https://cdn.jsdelivr.net/gh/kjm17833/collect-data@main/data/base-garnishees-v1.json",
+    "purge": "https://purge.jsdelivr.net/gh/kjm17833/collect-data@main/data/base-garnishees-v1.json"
   },
   "ref-data": {
     "cdn": "https://cdn.jsdelivr.net/gh/kjm17833/collect-data@main/data/ref-data-v1.json",
