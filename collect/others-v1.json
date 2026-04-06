@@ -43,10 +43,6 @@
   ],
   "refundBanks": [
     {
-      "id": "a1b2c3d4-e5f6-47a8-b9c0-d1e2f3a4b5c6",
-      "name": "은행선택"
-    },
-    {
       "id": "f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
       "name": "국민은행"
     },
